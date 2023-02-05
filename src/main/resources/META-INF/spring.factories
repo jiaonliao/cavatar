@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.wren.cavatar.config.ColorConfig,\
+com.wren.cavatar.AvatarTemplate
