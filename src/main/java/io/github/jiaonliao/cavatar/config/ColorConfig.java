@@ -1,4 +1,4 @@
-package com.wren.cavatar.config;
+package io.github.jiaonliao.cavatar.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;

@@ -1,11 +1,10 @@
-package com.wren.cavatar;
+package io.github.jiaonliao.cavatar;
 
-import com.wren.cavatar.config.ColorConfig;
-import com.wren.cavatar.constant.BaseWrapperShape;
-import com.wren.cavatar.constant.Gender;
-import com.wren.cavatar.constant.WidgetConstant;
-import com.wren.cavatar.constant.WrapperShape;
-import org.springframework.context.annotation.Configuration;
+import io.github.jiaonliao.cavatar.config.ColorConfig;
+import io.github.jiaonliao.cavatar.constant.BaseWrapperShape;
+import io.github.jiaonliao.cavatar.constant.Gender;
+import io.github.jiaonliao.cavatar.constant.WidgetConstant;
+import io.github.jiaonliao.cavatar.constant.WrapperShape;
 
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

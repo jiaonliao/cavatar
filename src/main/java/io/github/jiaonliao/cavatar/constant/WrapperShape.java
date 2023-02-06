@@ -1,4 +1,4 @@
-package com.wren.cavatar.constant;
+package io.github.jiaonliao.cavatar.constant;
 
 /**
  * @author wren

@@ -8,7 +8,7 @@
         <version>2.7.8</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.wren</groupId>
+    <groupId>io.github.jiaonliao</groupId>
     <artifactId>cavatar-spring-boot-starter</artifactId>
     <version>0.0.1</version>
     <name>cavatar-spring-boot-starter</name>

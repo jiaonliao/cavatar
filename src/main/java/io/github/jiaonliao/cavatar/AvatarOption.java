@@ -1,9 +1,9 @@
-package com.wren.cavatar;
+package io.github.jiaonliao.cavatar;
 
 
-import com.wren.cavatar.constant.BaseWrapperShape;
-import com.wren.cavatar.constant.Gender;
-import com.wren.cavatar.constant.WrapperShape;
+import io.github.jiaonliao.cavatar.constant.BaseWrapperShape;
+import io.github.jiaonliao.cavatar.constant.Gender;
+import io.github.jiaonliao.cavatar.constant.WrapperShape;
 
 import java.util.List;
 

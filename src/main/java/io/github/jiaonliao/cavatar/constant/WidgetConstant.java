@@ -1,7 +1,6 @@
-package com.wren.cavatar.constant;
+package io.github.jiaonliao.cavatar.constant;
 
 
-import java.net.CookieHandler;
 import java.util.HashMap;
 import java.util.Map;
 
