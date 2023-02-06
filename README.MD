@@ -15,7 +15,7 @@
 
 ### 安装依赖
 
-![c1.svg](img%2Fc1.svg)
+![c3.svg](img%2Fc3.svg)
 
 ### 使用
 
